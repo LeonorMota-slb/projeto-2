@@ -1,0 +1,25 @@
+
+  body {
+	  
+
+    background-color: white;
+  }
+  
+  h1{
+	  color: pink;
+	  front-family: Georgia;
+  } 
+  h2{
+	  color: red;
+      front-family: Times New Roman;
+  } 
+  .destaque {
+	  background-color: lightpink;
+	  margin: 10px;
+	      display: inline; /*Faz o fundo ajustar-se apenas à largura do texto*/
+  }
+  /*
+  1.
+  2.
+  3.
+  */
