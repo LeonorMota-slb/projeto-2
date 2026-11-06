@@ -2,7 +2,7 @@
   body {
 	  
 
-    background-color: white;
+    background-color:Beige ;
   }
   
   h1{
@@ -10,16 +10,18 @@
 	  front-family: Georgia;
   } 
   h2{
-	  color: red;
+	  color: pink;
       front-family: Times New Roman;
   } 
   .destaque {
 	  background-color: lightpink;
-	  margin: 10px;
-	      display: inline; /*Faz o fundo ajustar-se apenas à largura do texto*/
   }
   /*
-  1.
-  2.
-  3.
+  
+  1.Desafio Técnico:
+  A regra CSS mais difiícil de aplicar  foi a background-color, porque tive de escrever todas as palavras juntas, usando a sintaxe completa. Consegui superar essa dificuldade através de testes e correções no código.
+  2.Correção de Sintase:
+  O meu erro mais comum foi não fechar corretamente as chaves e separar as palavras de forma incorreta. Consegui corrigir esses erros ao rever o código no Notepad++.
+  3.Autoria:
+  O atributo href serve para criar ligações(links) entre páginas ou para direcionar o utilizador para outros sites. Por exemplo, quando clicamos num texto ou numa imagem com uma ligação, o href indica para onde devemos ser encaminhados. 
   */
